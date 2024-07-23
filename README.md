@@ -26,7 +26,7 @@ A simple and user-friendly system deployed using Streamlit. This project uses TM
 
 1. **Run the Notebook:**
    - The repository already contains the necessary CSV files (`tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`), as well as the pre-trained models (`movies.pkl` and `similarity.pkl`). 
-   - If you need to re-generate the `movies.pkl` and `similarity.pkl` files, open and run the `Movie Recommender.ipynb` notebook. This will process the CSV files and save the required pickle files in your project directory.
+   - It is suggested that you re-generate the `movies.pkl` and `similarity.pkl` models, by running the `Movie Recommender.ipynb` notebook. This will process the CSV files and save the required pickle files in your project directory.
 
 2. **Run app.py:**
    - Use the following command to start the Streamlit server on your localhost:
