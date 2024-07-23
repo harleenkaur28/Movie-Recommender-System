@@ -36,6 +36,7 @@ A simple and user-friendly system deployed using Streamlit. This project uses TM
    - This will launch the web application, and you can access it in your web browser at `http://localhost:8501`.
 
 ## Images
-
 ### Main Page
+![Main Page Screenshot](images/screenshot2.png)
+
 ![Main Page Screenshot](images/screenshot1.png)
